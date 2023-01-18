@@ -12,15 +12,15 @@ let questions = [
         A. Hola
         B. Au Revoir
         C. Salir
-        D. Adiós`,
+        D. Adi\xF3s`,
       correctAnswer: "D"
     },
     {
       text: `What is the French word for 'hat'?
-        A.  Casque
+        A. Casque
         B. Chapeau
         C. Bonnet
-        D. Écharpe`,
+        D. \xC9charpe`,
       correctAnswer: "B"
     },
     {
